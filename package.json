@@ -1,0 +1,14 @@
+{
+  "name": "video_streaming_plat",
+  "version": "1.0.0",
+  "description": "a backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript.backend"
+  ],
+  "author": "Aditya Sharma",
+  "license": "ISC"
+}
