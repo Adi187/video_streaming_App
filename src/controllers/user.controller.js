@@ -329,7 +329,7 @@ const getUserChannelProfile=asyncHandler(async(req,res)=>{
       if(!username?.trim()){
         throw new ApiError(400,"error while")
       }
-
+       
       const channel=await User.aggregate([
 
         {
